@@ -199,9 +199,40 @@ body {
     margin-left: 15px;
 }
 
-.footer {
+.inform {
     background: #ECECEC;
-    height: 271px;
+    height: 216px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+}
+
+.inform-item {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.inform-item-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: grey;
+}
+
+.inform-item-content {
+    margin-top: 20px;
+}
+
+.browse-item {
+    color: gray;
+}
+
+.browse {
+
+}
+
+.testimonials {
+
+}
+
+.blog {
+
 }
